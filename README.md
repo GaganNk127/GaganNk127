@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagan Naik</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [[gagannk.vercel.app](gagannk.vercel.app)](https://gagannk.vercel.app/)
+- 👨‍💻 All of my projects are available at [(gagannk.vercel.app)](https://gagannk.vercel.app/)
 
 - 📫 How to reach me **gagannaik127@gmail.com**
 
